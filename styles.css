@@ -1,5 +1,5 @@
 body {
-    background: blue;
+    background: grey;
     color: white;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     margin: 0;
@@ -17,10 +17,11 @@ section{
     flex-direction: row;
 
 }
-div{
+class 'feature box'{
     background: red;
-    margin: auto;
-    width: 100px;
+    margin: 2px;
+    
+    padding: 70px;
 }
 ul{
     margin: 0;
