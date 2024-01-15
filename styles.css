@@ -17,11 +17,11 @@ section{
     flex-direction: row;
 
 }
-div{
+class 'feature box'{
     background: red;
-    margin: auto;
+    margin: 2px;
     
-    padding: 2px;
+    padding: 70px;
 }
 ul{
     margin: 0;
